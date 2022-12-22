@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Palakkgoyal
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning DSA and Devops
+- 👋 Hi, I’m Palak goyal
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning DSA and Web Development
 - 💞️ I’m looking to collaborate on some interesting projects
 
 
