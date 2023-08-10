@@ -1,6 +1,7 @@
 Hi!
 
 Name: `Palak Goyal`
+
 Frontend(React) Developer.
 
 Traits: `self-taught` `determined` `explorer/learner`
