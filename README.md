@@ -19,3 +19,4 @@ Also worked with: `Java` and `Python`
 Programs Participated in:
 
 ![GSSOC](https://i.ibb.co/2cC7fzv/Screenshot-2023-08-03-135556.png)
+![HackOdisha](https://i.ibb.co/1zqVtpR/Screenshot-2023-09-14-200430.png)
