@@ -13,8 +13,6 @@ Also worked with: `Java` `Python` `Nextjs`, `Sanity` and `Typescript`
 ---
 ![palakkgoyal's Stats](https://github-readme-stats.vercel.app/api?username=palakkgoyal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![palakkgoyal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=palakkgoyal&theme=vue-dark&hide_border=true)
-
 
 Programs Participated in:
 
