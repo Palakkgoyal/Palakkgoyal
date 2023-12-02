@@ -8,7 +8,7 @@ Traits: `self-taught` `determined` `explorer/learner`
 
 Skills: `HTML` `CSS` and you guessed it right `JavaScript`😜, `React` `Tailwind` `Firebase`
 
-Also worked with: `Java` `Python` `Nextjs` and `Typescript`
+Also worked with: `Java` `Python` `Nextjs`, `Sanity` and `Typescript`
 
 ---
 ![palakkgoyal's Stats](https://github-readme-stats.vercel.app/api?username=palakkgoyal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
