@@ -2,8 +2,7 @@ Hi!
 
 Name: `Palak Goyal`
 
-About: I have been enjoying Programming ever since I learnt DSA with Java but later stuck with JavaScript and got into frontend development but I didn't liked making UIs. I wanting something that involved more logic and challenges so I am currently learning Rust.
-
+I've been enjoying programming since learning DSA with Java, then shifting to JavaScript for frontend. However, UI work didn't appeal to me. Now, I'm diving into Rust, seeking more logic and challenges.
 Wanna watch my Rust playlist: https://www.youtube.com/playlist?list=PL5b_fLu-Jx2nrbCTqD_7fh0S-qC-kDp9B
 
 Skills: `Rust` `HTML` `CSS` and you guessed it right `JavaScript`😜, `React` `Tailwind` `Firebase`
