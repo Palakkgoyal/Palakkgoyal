@@ -6,7 +6,7 @@ Frontend(React) Developer.
 
 Traits: `self-taught` `determined` `explorer/learner`
 
-Skills: `HTML` `CSS` and you guessed it right `JavaScript`😜, `React` `Tailwind` `Firebase`
+Skills: `Rust` `HTML` `CSS` and you guessed it right `JavaScript`😜, `React` `Tailwind` `Firebase`
 
 Also worked with: `Java` `Python` `Nextjs`, `Sanity` and `Typescript`
 
