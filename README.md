@@ -2,9 +2,9 @@ Hi!
 
 Name: `Palak Goyal`
 
-Frontend(React) Developer.
+About: I have been enjoying Programming ever since I learnt DSA with Java but later stuck with JavaScript and got into frontend development but I didn't liked making UIs. I wanting something that involved more logic and challenges so I am currently learning Rust.
 
-Traits: `self-taught` `determined` `explorer/learner`
+Wanna watch my Rust playlist: https://www.youtube.com/playlist?list=PL5b_fLu-Jx2nrbCTqD_7fh0S-qC-kDp9B
 
 Skills: `Rust` `HTML` `CSS` and you guessed it right `JavaScript`😜, `React` `Tailwind` `Firebase`
 
