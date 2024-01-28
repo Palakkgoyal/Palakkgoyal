@@ -9,7 +9,7 @@
 
 - 👉 You can follow me on YouTube: [Rusty Coder](https://www.youtube.com/channel/UClsRTBR-auCPBjigruYjSMA)
 
-- ⚡ Fun fact **I am cinema and animation enthusiast**
+- ⚡ Fun fact **I love retro video games**
 <p align="left">
 </p>
 
