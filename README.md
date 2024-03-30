@@ -5,6 +5,8 @@
 
 - 💬 Let's have a chat on **Low level programming**
 
+- 📄 More about me on my: [Resume](https://docs.google.com/document/d/1G0NzT5ieEzo8xAt3EFri3mrgHyHYIa38M0n9hM_fX-E/edit?usp=sharing)
+
 - 📫 How to reach me **Palakgoyal0304@gmail.com**
 
 - 👉 You can follow me on YouTube: [Rusty Coder](https://www.youtube.com/channel/UClsRTBR-auCPBjigruYjSMA)
