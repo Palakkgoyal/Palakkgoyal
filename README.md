@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Palak Goyal</h1>
-<h3 align="center">I've been enjoying programming since learning DSA with Java, then shifting to JavaScript for frontend. However, UI work didn't appeal to me. Now, I'm diving into Rust, seeking more logic and challenges</h3>
+<h3 align="center">I've been enjoying programming since learning DSA with Java, then shifting to JavaScript for frontend and creating several appealing UI. Now, I'm concurrently diving into Rust, seeking more logic and challenges</h3>
 
 - 🌱 I’m currently learning **Rust and Web3**
 
